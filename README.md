@@ -3,7 +3,7 @@
 
 - 🔭 Mi actividad actual **Frigorifico Rio Plantense**
 
-- 🌱 Actualmente estoy actualizado: **HTTML, CSS, SAP HANNA, EXCEL Avanzado, Power BI, Procesos Contables y Administrativos**
+- 🌱 Actualmente estoy actualizado: **HTML, CSS, SAP HANNA, EXCEL Avanzado, Power BI, Procesos Contables y Administrativos**
 
 - 💬 Puedes Consultarme **SAP FI, MM,ABAP,EXCEL Avanzado DASHBOARD, POSTMAN API TEST Mercado Pago**
 
