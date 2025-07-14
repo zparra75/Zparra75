@@ -5,7 +5,7 @@
 
 - 🌱 Actualmente estoy actualizado: **HTTML, CSS, SAP HANNA, EXCEL Avanzado, Power BI, Procesos Contables y Administrativos**
 
-- 💬 Puedes Consultarme **SAP FI, MM,ABAP,EXCEL Avanzado DASHBOARD**
+- 💬 Puedes Consultarme **SAP FI, MM,ABAP,EXCEL Avanzado DASHBOARD, POSTMAN API TEST Mercado Pago**
 
 - 📫 Mi Correo **lic.dimasdaniel@gmail.com**
 
