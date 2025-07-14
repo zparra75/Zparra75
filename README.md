@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Mi nombre es Dimas Daniel Gonzalez Parra</h1>
-<h3 align="center">Soy un Consultor SAP FI, con disciplina y apasionado a las nuevas tecnologias SAP</h3>
+<h3 align="center">Soy un Consultor SAP FI y Contador Pùblico, con disciplina y apasionado a las nuevas tecnologias SAP</h3>
 
 - 🔭 Mi actividad actual **Frigorifico Rio Plantense**
 
